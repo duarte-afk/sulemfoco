@@ -27,3 +27,11 @@ Representa jornal impresso. Branco ligeiramente quente para credibilidade jornal
 Em suma, a nossa abordagem consistiu em selecionar tonalidades que evocam o ambiente natural (florestas, planícies, zonas costeiras por meio de verdes e azuis), remetem a ícones regionais e costumes locais (erva-mate, solo fértil, mídia impressa) e atendem a requisitos técnicos (tons claros para facilidade de leitura, tons escuros para distinção visual). Essa gama de cores consolida o empreendimento na região sul do Brasil com elegância e coesão.
 
 link da prototipação: https://canva.link/lj0bf47rpeyw45g
+
+Série: 3°A
+Participantes: 
+Lucas Duarte de Carvalho
+Pedro Henrique de Lima Mendes
+Pietro Fernando Arruda Silvestre
+Rafael Fonseca Xavier de Souza
+Raphaela Lima Costa
